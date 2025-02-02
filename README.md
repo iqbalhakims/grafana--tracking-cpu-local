@@ -69,18 +69,6 @@ sudo systemctl enable grafana-server
    ```
 4. Click **Apply**, then **Save** your dashboard.
 
----
-
-## 📷 Example Dashboard
-![Grafana Dashboard](URL_TO_DASHBOARD_IMAGE)
-
-## 🛠️ Troubleshooting
-
-### Check if Prometheus and Node Exporter are running:
-```sh
-sudo systemctl status prometheus
-sudo systemctl status node_exporter
-```
 
 ### Check logs for errors:
 ```sh
