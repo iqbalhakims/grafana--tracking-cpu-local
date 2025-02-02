@@ -1,6 +1,8 @@
 ﻿# Grafana--tracking-cpu-local
 
 ![Image](https://github.com/user-attachments/assets/565138ef-7bb9-4193-b058-008c75ba7523)
+
+
 ![Image](https://github.com/user-attachments/assets/f7cd2536-c772-44ba-87cf-60e9635eb902)
 
 
