@@ -1,6 +1,6 @@
 ﻿# Grafana--tracking-cpu-local
 
-<!-- Uploading "Giomo9DbYAY8HMK.jpeg"... -->
+![Image](https://github.com/user-attachments/assets/565138ef-7bb9-4193-b058-008c75ba7523)
 
 
  # 📊 Grafana CPU Monitoring on Local Machine
