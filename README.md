@@ -2,9 +2,6 @@
 
 
 
-![GiolW3VaUAEI2cQ](https://github.com/user![Giomo9DbYAY8HMK](https://github.com/user-attachments/assets/4e1bae90-d0f8-4f53-89e7-6987cb91390a)
--attachments/assets/c3abf801-efce-464f-ba3d-768d14976e92)
-
 
  # 📊 Grafana CPU Monitoring on Local Machine
 
